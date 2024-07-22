@@ -8,5 +8,6 @@ WARNING! check https://www.brew.sh for up to date info
 # Use brewfile
 ```
 cd brewfile-directory
+rm Brewfile.lock.json
 brew bundle
 ```
